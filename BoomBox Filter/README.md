@@ -19,5 +19,7 @@ Feedback is Welcomed!
 
 ## -+- Acknowledgement
 [PF](https://github.com/Diyshift/3D-Printer/tree/main/Short%20Stack%20Bento%20Filter) Sharing Important Step Files and For inspiring that project
+
 [Whodidyouthink] For Alpha Testing
+
 [MooGoo] For being the voice of Reason & Also Testing
