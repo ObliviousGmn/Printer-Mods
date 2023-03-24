@@ -24,7 +24,7 @@ Feedback is Welcomed!
 |M3 T Nut|2|
 |Super Glue For Magnets|
 |Hepa Filters|--|[Link](https://www.amazon.com/gp/product/B0782T7L6P)
-|Acid Free Carbon|--|[Link](https://west3d.com/products/premium-activated-carbon-pellets-for-voc-odor-removal-and-nevermore?_pos=1&_psq=carbon&_ss=e&_v=1.0)
+|Carbon|--|[Link](https://west3d.com/products/premium-activated-carbon-pellets-for-voc-odor-removal-and-nevermore?_pos=1&_psq=carbon&_ss=e&_v=1.0)
 
 ## -+- Acknowledgement
 [PF](https://github.com/Diyshift/3D-Printer/tree/main/Short%20Stack%20Bento%20Filter) Sharing Important Step Files and For inspiring the project
