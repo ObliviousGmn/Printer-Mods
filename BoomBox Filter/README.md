@@ -18,8 +18,8 @@ Feedback is Welcomed!
 |Super Glue For Magnets|
 
 ## -+- Acknowledgement
-[PF](https://github.com/Diyshift/3D-Printer/tree/main/Short%20Stack%20Bento%20Filter) Sharing Important Step Files and For inspiring that project
+[PF](https://github.com/Diyshift/3D-Printer/tree/main/Short%20Stack%20Bento%20Filter) Sharing Important Step Files and For inspiring the project
+
+[MooGoo](https://github.com/oogoom) For being the voice of Reason & Also Testing
 
 [Whodidyouthink] For Alpha Testing
-
-[MooGoo] For being the voice of Reason & Also Testing
