@@ -1,6 +1,7 @@
 ## -+- BoomBox Filter
 
 ![image1](https://github.com/ObliviousGmn/Printer-Mods/blob/main/BoomBox%20Filter/Images/Render.png)
+
 BoomBox Filter, For Trident. Inspried by Bento Filter for Bambu Printers. 
 
 Feedback is Welcomed!
