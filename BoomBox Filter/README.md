@@ -2,7 +2,7 @@
 
 ![image1](https://github.com/ObliviousGmn/Printer-Mods/blob/main/BoomBox%20Filter/Images/Render.png)
 
-BoomBox Filter, For Trident. Inspired by Bento Filter for Bambu Printers.
+BoomBox Filter, For Trident. Inspired by [Bento Filter for Bambu Printers](https://www.printables.com/model/272525-bambu-lab-x1c-bentobox-air-filter)
 
 Feedback is Welcomed!
 
