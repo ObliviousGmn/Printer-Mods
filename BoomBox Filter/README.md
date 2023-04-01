@@ -27,8 +27,8 @@ Feedback is Welcomed!
 |Carbon|--|[Link](https://west3d.com/products/premium-activated-carbon-pellets-for-voc-odor-removal-and-nevermore?_pos=1&_psq=carbon&_ss=e&_v=1.0)
 
 ## -+- Acknowledgement
-[PF](https://github.com/Diyshift/3D-Printer/tree/main/Short%20Stack%20Bento%20Filter) Sharing Important Step Files and For inspiring the project
+[PF](https://github.com/Diyshift/3D-Printer/tree/main/Short%20Stack%20Bento%20Filter) Sharing Important Step Files and For inspiring the project <3
 
-[MooGoo](https://github.com/oogoom) For being the voice of Reason & Also Testing
+[MooGoo](https://github.com/oogoom) For being the voice of Reason & Also Testing!
 
-[Whodidyouthink] For Alpha Testing
+[Whodidyouthink] For Alpha Testing!
