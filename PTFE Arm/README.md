@@ -1,6 +1,6 @@
 ## -+- PTFE Swing Arm
 
-![image1](--)
+![image1](https://raw.githubusercontent.com/ObliviousGmn/Printer-Mods/main/PTFE%20Arm/Images/image.png)
 
 PTFE Bowden Arm. Inspired by [Original PTFE Arm](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Galvanic/Bowden_Tube_Guide)
 
