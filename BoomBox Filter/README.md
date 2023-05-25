@@ -27,7 +27,7 @@ Feedback is Welcomed!
 |Carbon|--|[Link](https://west3d.com/products/premium-activated-carbon-pellets-for-voc-odor-removal-and-nevermore?_pos=1&_psq=carbon&_ss=e&_v=1.0)
 
 ## -+- User Photos
-![Dr_Mursey](https://github.com/ObliviousGmn/Printer-Mods/blob/main/BoomBox%20Filter/Images/Dr_Mursey)
+![Dr_Mursey](https://github.com/ObliviousGmn/Printer-Mods/blob/main/BoomBox%20Filter/Images/Dr_Mursey.jpg)
 
 ## -+- Acknowledgement
 [PF](https://github.com/Diyshift/3D-Printer/tree/main/Short%20Stack%20Bento%20Filter) Sharing Important Step Files and For inspiring the project <3
