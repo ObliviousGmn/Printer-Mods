@@ -8,10 +8,14 @@ Feedback is Welcomed!
 
 ## -+- Features
   2 5015 Blower Power!!
-
-  Positioning Tabs, So Halves don't move around as freely.
-
+  Possible Wago room in Back Fan Bay? Hasn't been confirmed
   Spacer For Inverted Electronics Mod. [LoganFraser](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/LoganFraser/TridentInvertedElectronics)
+
+## -+- Carbon Catcher
+![image2](https://github.com/ObliviousGmn/Printer-Mods/blob/main/BoomBox%20Filter/Images/Slicer_image)
+    Small Infill print, To prevent Carbon spilling into fan bay.
+    Settings I used for Catcher
+![image3](https://github.com/ObliviousGmn/Printer-Mods/blob/main/BoomBox%20Filter/Images/Slicer_Settings.png)
 
 ## -+- BOM  
 |Item|QTY|Notes|
