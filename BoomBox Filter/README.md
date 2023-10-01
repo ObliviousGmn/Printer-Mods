@@ -12,7 +12,7 @@ Feedback is Welcomed!
   Spacer For Inverted Electronics Mod. [LoganFraser](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/LoganFraser/TridentInvertedElectronics)
 
 ## -+- Carbon Catcher
-![image2](https://github.com/ObliviousGmn/Printer-Mods/blob/main/BoomBox%20Filter/Images/Slicer_image)
+![image2](https://github.com/ObliviousGmn/Printer-Mods/blob/main/BoomBox%20Filter/Images/Slicer_image.png)
     Small Infill print, To prevent Carbon spilling into fan bay.
     Settings I used for Catcher
 ![image3](https://github.com/ObliviousGmn/Printer-Mods/blob/main/BoomBox%20Filter/Images/Slicer_Settings.png)
