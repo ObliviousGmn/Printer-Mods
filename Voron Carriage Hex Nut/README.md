@@ -8,6 +8,9 @@ I used M3x55.
 
 Feedback is Welcomed!
 
+Update - 04.16.2025
+Added PCB_Klicky M3 Nut Carriage.
+
 ## -+- BOM  
 |Item|QTY|Notes|
 |----|-|--|
